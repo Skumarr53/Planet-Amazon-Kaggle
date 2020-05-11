@@ -11,13 +11,13 @@ The objetive here is to use Machine Learning teqhniques to label satellite image
 
 Each Image can have multiple labels. The 'planet/train_v2.csv'file containing the labels we see that each 'image_name' is associated to several tags separated by spaces.
 
-sl no | image_name | tags | 
+sl no | image_name | tags
 -|------------|------|-
-0 | train_0 | haze primary | 
-1 | train_1 | agriculture clear primary water | 
-2 | train_2 | clear primary | 
-3 | train_3 | clear primary | 
-4 | train_4 | agriculture clear habitation primary road | 
+0 | train_0 | haze primary
+1 | train_1 | agriculture clear primary water
+2 | train_2 | clear primary
+3 | train_3 | clear primary
+4 | train_4 | agriculture clear habitation primary road
 
 ![](snapshots/show_batch.png)
 
