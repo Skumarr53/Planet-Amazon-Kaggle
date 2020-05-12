@@ -1,10 +1,10 @@
-##  Multi-label prediction with Planet Amazon dataset
+##  Planet Amazon - Multi-label classification
 
 ### Problem statement:
 
 This is the competation hosted in [**Kaggle**](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space). Forests are increasingly subjected to deforestation and degradation contributing to reduced biodiversity, habitat loss, climate change and other devastating effects with *Amazon* holding the largest share. Information about the location of deforestation and human encroachment on forests can help governments and local stakeholders respond more quickly and effectively. 
 
-The objetive here is to use Machine Learning teqhniques to label satellite image with atmospheric conditions and various classes of land cover/land use. Hence, this is the *Multi-label prediction* problem
+The objetive here is to use Machine Learning teqhniques to label satellite image with atmospheric conditions and various classes of land cover/land use. Hence, this is the *Multi-label classification* problem
 
 
 ### Data set description
